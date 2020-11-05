@@ -3,13 +3,9 @@
 </center>
 
 # Coursera Capstone - Professional Applied Data Science
-
 ## by Alex A.
-
 Tiempo estimado necesario **desconocido** minutos
-
 ## Objetive
-
 Check this skills:
     - one
     - two
